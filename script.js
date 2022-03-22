@@ -23,6 +23,6 @@ function check(changes, observer) {
 function main() {
     let flags = document.querySelectorAll('[src="/img/flags/BLR.jpg"]');
     for (let flag of flags) {
-        flag.src = 'https://i.imgur.com/pyPe1V9.png';
+        flag.src = 'https://github.com/Vanawy/belarus-flag-replacer/raw/main/blr.png';
     }
 }
