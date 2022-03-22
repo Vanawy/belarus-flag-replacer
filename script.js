@@ -8,6 +8,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=trackmania.io
 // @grant        none
 // @source       https://github.com/Vanawy/belarus-flag-replacer
+// @downloadURL  https://github.com/Vanawy/belarus-flag-replacer/raw/main/script.js
 // ==/UserScript==
 
 (new MutationObserver(check)).observe(document, {childList: true, subtree: true});
