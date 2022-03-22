@@ -8,7 +8,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=trackmania.io
 // @grant        none
 // @source       https://github.com/Vanawy/belarus-flag-replacer
-// @updateURL  https://github.com/Vanawy/belarus-flag-replacer/raw/main/script.js
+// @updateURL    https://github.com/Vanawy/belarus-flag-replacer/raw/main/script.js
 // @downloadURL  https://github.com/Vanawy/belarus-flag-replacer/raw/main/script.js
 // ==/UserScript==
 
